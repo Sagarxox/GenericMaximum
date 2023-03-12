@@ -1,0 +1,15 @@
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\bin\Debug\net6.0\GenericsMaximumProgram.exe
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\bin\Debug\net6.0\GenericsMaximumProgram.deps.json
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\bin\Debug\net6.0\GenericsMaximumProgram.runtimeconfig.json
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\bin\Debug\net6.0\GenericsMaximumProgram.dll
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\bin\Debug\net6.0\GenericsMaximumProgram.pdb
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.csproj.AssemblyReference.cache
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.AssemblyInfoInputs.cache
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.AssemblyInfo.cs
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.csproj.CoreCompileInputs.cache
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.dll
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\refint\GenericsMaximumProgram.dll
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.pdb
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\GenericsMaximumProgram.genruntimeconfig.cache
+C:\Users\3\source\repos\GenericsMaximumProgram\GenericsMaximumProgram\obj\Debug\net6.0\ref\GenericsMaximumProgram.dll
